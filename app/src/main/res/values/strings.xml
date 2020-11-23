@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyCollegeApp</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="Date">Date</string>
+    <string name="date">Date</string>
+    <string name="email_admissions">Email Admissions</string>
+    <string name="essay">Essay</string>
+    <string name="letter_of_recommendation">Letter of Recommendation</string>
+    <string name="application">Application</string>
+    <string name="application_deadline">Application Deadline</string>
+</resources>
